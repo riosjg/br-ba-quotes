@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/br-ba-quotes/static/css/main.f4010300.chunk.css",
+    "main.js": "/br-ba-quotes/static/js/main.0da39709.chunk.js",
+    "main.js.map": "/br-ba-quotes/static/js/main.0da39709.chunk.js.map",
+    "runtime-main.js": "/br-ba-quotes/static/js/runtime-main.2dc2627e.js",
+    "runtime-main.js.map": "/br-ba-quotes/static/js/runtime-main.2dc2627e.js.map",
+    "static/js/2.e658478b.chunk.js": "/br-ba-quotes/static/js/2.e658478b.chunk.js",
+    "static/js/2.e658478b.chunk.js.map": "/br-ba-quotes/static/js/2.e658478b.chunk.js.map",
+    "index.html": "/br-ba-quotes/index.html",
+    "precache-manifest.b1fbaf55a0ed31e22d3a68f2fc9a81ef.js": "/br-ba-quotes/precache-manifest.b1fbaf55a0ed31e22d3a68f2fc9a81ef.js",
+    "service-worker.js": "/br-ba-quotes/service-worker.js",
+    "static/css/main.f4010300.chunk.css.map": "/br-ba-quotes/static/css/main.f4010300.chunk.css.map",
+    "static/js/2.e658478b.chunk.js.LICENSE.txt": "/br-ba-quotes/static/js/2.e658478b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/br-ba-quotes/static/media/logo.88e9414e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dc2627e.js",
+    "static/js/2.e658478b.chunk.js",
+    "static/css/main.f4010300.chunk.css",
+    "static/js/main.0da39709.chunk.js"
+  ]
+}
